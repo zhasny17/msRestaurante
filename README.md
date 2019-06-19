@@ -1,3 +1,4 @@
+Aplicação web em python utilizando flask+sqlAlchemy e docker
 Microservisso restaurante
 -- Execução em modo local
 
